@@ -49,3 +49,6 @@ Data science
 Cybersecurity
 Automation and scripting
 Python proves that simplicity can be powerful.
+
+## 2026
+New thing happens started
